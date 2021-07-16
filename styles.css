@@ -1,11 +1,11 @@
 body {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   display: grid;
-  width: 100vw;
   height: 100vh;
   align-content: center;
   background-color: #f8f7f2;
-  overflow: hidden;
+  margin: 0;
+  padding: 0;
 }
 
 section {
@@ -26,6 +26,7 @@ h1 {
 h2 {
   font-size: 1.3em;
   color: grey;
+  margin: 0.5em;
 }
 
 address {
